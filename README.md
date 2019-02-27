@@ -1,8 +1,7 @@
 # LuhnAlgorithmJava
 Luhn Algorithm
+Luhn Algorithm
 
-HTML & PHP University Work
-I completed this work during my Web Applications Development module at University, 
-this involved a combination of HTML front end development and PHP coding which was 
-stored on my x10Hosting web service account, although this account is now deactivated, 
-I was able to rescue a file which shows a snippet of the work in which I completed during this module.
+The aim of the project was to develop an application in Java which would allow 
+you to check a credit card and whether it abides by the Luhn Algorithm to prevent 
+fraud and blacklisted credit cards from being entered online.
